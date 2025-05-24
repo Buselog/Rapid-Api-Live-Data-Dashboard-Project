@@ -4,22 +4,22 @@ Bu proje, Asp .Net Core ile geliştirilmiş, gerçek zamanlı verilerin çekilme
 
 ## ☄️ Projede Görüntülenen Veriler
 
-#### 💶 Anlık Borsa Verileri:
+### 💶 Anlık Borsa Verileri:
 USD, GBP, EUR ve JPY gibi döviz kurlarının güncel fiyatları.
 
-#### 🪙 Güncel Kripto Paralar:
+### 🪙 Güncel Kripto Paralar:
 Bitcoin, Litecoin, Ethereum, Dogecoin gibi popüler kripto para birimlerinin fiyatları ve diğer sayısal veriler.
 
-#### ⛅️ Büyükşehirler İçin Anlık Hava Durumu:
+### ⛅️ Büyükşehirler İçin Anlık Hava Durumu:
 İstanbul, Ankara ve İzmir için gerçek zamanlı hava durumu verileri.
 
-#### 📻 Son Eklenen Global Haberler:
+### 📻 Son Eklenen Global Haberler:
 Dünya genelinde yayımlanan en son 5 haber başlığı ve içerikleri.
 
-#### 📈 Türkiye Akaryakıt Verileri:
+### 📈 Türkiye Akaryakıt Verileri:
 Benzin, dizel ve LPG fiyatları ile ilgili güncel bilgiler.
 
-#### 🥐 Günün Yemeği:
+### 🥐 Günün Yemeği:
 Kullanıcılar için günlük yemeğin adı, içeriği ve tarifi.
 
 
@@ -35,7 +35,7 @@ Kullanıcılar için günlük yemeğin adı, içeriği ve tarifi.
 
 -  Farklı kaynaklardan canlı finans, hava durumu, haber ve akaryakıt verilerini gerçek zamanlı olarak çekmek için kullanılmıştır.
 
-# 🌟 HTML, CSS, Bootstrap Kullanımı
+##### 🌟 HTML, CSS, Bootstrap Kullanımı
 
 - Modern ve kullanıcı dostu bir görünüm için çeşitli teknolojiler kullanılmıştır.
 
