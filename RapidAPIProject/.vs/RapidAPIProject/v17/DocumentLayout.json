@@ -1,0 +1,419 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|c:\\users\\buse\\source\\repos\\rapidapiproject\\views\\shared\\components\\_bitcointousdcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|solutionrelative:views\\shared\\components\\_bitcointousdcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|c:\\users\\buse\\source\\repos\\rapidapiproject\\views\\shared\\components\\_dogecointousdcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|solutionrelative:views\\shared\\components\\_dogecointousdcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|c:\\users\\buse\\source\\repos\\rapidapiproject\\views\\shared\\components\\_dailyfoodcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|solutionrelative:views\\shared\\components\\_dailyfoodcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|c:\\users\\buse\\source\\repos\\rapidapiproject\\views\\shared\\components\\_litecointousdcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|solutionrelative:views\\shared\\components\\_litecointousdcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|c:\\users\\buse\\source\\repos\\rapidapiproject\\views\\shared\\components\\_eurtotrycomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|solutionrelative:views\\shared\\components\\_eurtotrycomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|c:\\users\\buse\\source\\repos\\rapidapiproject\\views\\shared\\components\\_ethereumtousdcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|solutionrelative:views\\shared\\components\\_ethereumtousdcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|c:\\users\\buse\\source\\repos\\rapidapiproject\\viewcomponents\\_litecointousdcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|solutionrelative:viewcomponents\\_litecointousdcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|c:\\users\\buse\\source\\repos\\rapidapiproject\\viewcomponents\\_jpytotrycomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|solutionrelative:viewcomponents\\_jpytotrycomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|c:\\users\\buse\\source\\repos\\rapidapiproject\\viewcomponents\\_usdtotrycomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|solutionrelative:viewcomponents\\_usdtotrycomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|c:\\users\\buse\\source\\repos\\rapidapiproject\\viewcomponents\\_gbptotrycomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|solutionrelative:viewcomponents\\_gbptotrycomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|c:\\users\\buse\\source\\repos\\rapidapiproject\\viewcomponents\\_eurtotrycomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|solutionrelative:viewcomponents\\_eurtotrycomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|c:\\users\\buse\\source\\repos\\rapidapiproject\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|solutionrelative:views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|c:\\users\\buse\\source\\repos\\rapidapiproject\\viewcomponents\\_dogecointousdcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|solutionrelative:viewcomponents\\_dogecointousdcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|c:\\users\\buse\\source\\repos\\rapidapiproject\\viewcomponents\\_ethereumtousdcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|solutionrelative:viewcomponents\\_ethereumtousdcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|c:\\users\\buse\\source\\repos\\rapidapiproject\\models\\cryptoviewmodel2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|solutionrelative:models\\cryptoviewmodel2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|c:\\users\\buse\\source\\repos\\rapidapiproject\\models\\cryptoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|solutionrelative:models\\cryptoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|c:\\users\\buse\\source\\repos\\rapidapiproject\\viewcomponents\\_bitcointousdcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|solutionrelative:viewcomponents\\_bitcointousdcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|c:\\users\\buse\\source\\repos\\rapidapiproject\\models\\dailyfoodviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|solutionrelative:models\\dailyfoodviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|c:\\users\\buse\\source\\repos\\rapidapiproject\\models\\cryptoviewmodel4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|solutionrelative:models\\cryptoviewmodel4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|c:\\users\\buse\\source\\repos\\rapidapiproject\\models\\cryptoviewmodel3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|solutionrelative:models\\cryptoviewmodel3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|c:\\users\\buse\\source\\repos\\rapidapiproject\\viewcomponents\\_fuelpricecomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|solutionrelative:viewcomponents\\_fuelpricecomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|c:\\users\\buse\\source\\repos\\rapidapiproject\\viewcomponents\\_motorinpricecomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|solutionrelative:viewcomponents\\_motorinpricecomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|c:\\users\\buse\\source\\repos\\rapidapiproject\\viewcomponents\\_lpgpricecomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C9DD12-2791-4FA1-9D82-103D6540BA7B}|RapidAPIProject.csproj|solutionrelative:viewcomponents\\_lpgpricecomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 214,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_USDToTRYComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\ViewComponents\\_USDToTRYComponentPartial.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\_USDToTRYComponentPartial.cs",
+              "ToolTip": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\ViewComponents\\_USDToTRYComponentPartial.cs",
+              "RelativeToolTip": "ViewComponents\\_USDToTRYComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T11:14:54.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_GBPToTRYComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\ViewComponents\\_GBPToTRYComponentPartial.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\_GBPToTRYComponentPartial.cs",
+              "ToolTip": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\ViewComponents\\_GBPToTRYComponentPartial.cs",
+              "RelativeToolTip": "ViewComponents\\_GBPToTRYComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T11:14:47.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_EURToTRYComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\ViewComponents\\_EURToTRYComponentPartial.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\_EURToTRYComponentPartial.cs",
+              "ToolTip": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\ViewComponents\\_EURToTRYComponentPartial.cs",
+              "RelativeToolTip": "ViewComponents\\_EURToTRYComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T11:14:08.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\Views\\Shared\\Components\\_EURToTRYComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\_EURToTRYComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\Views\\Shared\\Components\\_EURToTRYComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\_EURToTRYComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-24T10:26:56.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\Views\\Shared\\Components\\_EthereumToUSDComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\_EthereumToUSDComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\Views\\Shared\\Components\\_EthereumToUSDComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\_EthereumToUSDComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-24T10:24:53.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_EthereumToUSDComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\ViewComponents\\_EthereumToUSDComponentPartial.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\_EthereumToUSDComponentPartial.cs",
+              "ToolTip": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\ViewComponents\\_EthereumToUSDComponentPartial.cs",
+              "RelativeToolTip": "ViewComponents\\_EthereumToUSDComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:20:41.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\Views\\Shared\\Components\\_DailyFoodComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\_DailyFoodComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\Views\\Shared\\Components\\_DailyFoodComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\_DailyFoodComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-24T10:17:22.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_DogecoinToUSDComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\ViewComponents\\_DogecoinToUSDComponentPartial.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\_DogecoinToUSDComponentPartial.cs",
+              "ToolTip": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\ViewComponents\\_DogecoinToUSDComponentPartial.cs",
+              "RelativeToolTip": "ViewComponents\\_DogecoinToUSDComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:16:14.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DailyFoodViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\Models\\DailyFoodViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\DailyFoodViewModel.cs",
+              "ToolTip": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\Models\\DailyFoodViewModel.cs",
+              "RelativeToolTip": "Models\\DailyFoodViewModel.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAA1wD4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:10:09.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_JPYToTRYComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\ViewComponents\\_JPYToTRYComponentPartial.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\_JPYToTRYComponentPartial.cs",
+              "ToolTip": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\ViewComponents\\_JPYToTRYComponentPartial.cs",
+              "RelativeToolTip": "ViewComponents\\_JPYToTRYComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:05:41.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CryptoViewModel4.cs",
+              "DocumentMoniker": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\Models\\CryptoViewModel4.cs",
+              "RelativeDocumentMoniker": "Models\\CryptoViewModel4.cs",
+              "ToolTip": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\Models\\CryptoViewModel4.cs",
+              "RelativeToolTip": "Models\\CryptoViewModel4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:03:51.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CryptoViewModel3.cs",
+              "DocumentMoniker": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\Models\\CryptoViewModel3.cs",
+              "RelativeDocumentMoniker": "Models\\CryptoViewModel3.cs",
+              "ToolTip": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\Models\\CryptoViewModel3.cs",
+              "RelativeToolTip": "Models\\CryptoViewModel3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:03:49.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CryptoViewModel2.cs",
+              "DocumentMoniker": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\Models\\CryptoViewModel2.cs",
+              "RelativeDocumentMoniker": "Models\\CryptoViewModel2.cs",
+              "ToolTip": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\Models\\CryptoViewModel2.cs",
+              "RelativeToolTip": "Models\\CryptoViewModel2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:03:45.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_LitecoinToUSDComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\ViewComponents\\_LitecoinToUSDComponentPartial.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\_LitecoinToUSDComponentPartial.cs",
+              "ToolTip": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\ViewComponents\\_LitecoinToUSDComponentPartial.cs",
+              "RelativeToolTip": "ViewComponents\\_LitecoinToUSDComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T09:57:11.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\Views\\Shared\\Components\\_LitecoinToUSDComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\_LitecoinToUSDComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\Views\\Shared\\Components\\_LitecoinToUSDComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\_LitecoinToUSDComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-24T09:53:49.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\Views\\Shared\\Components\\_DogecoinToUSDComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\_DogecoinToUSDComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\Views\\Shared\\Components\\_DogecoinToUSDComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\_DogecoinToUSDComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-24T09:53:34.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\Views\\Shared\\Components\\_BitcoinToUSDComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\_BitcoinToUSDComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\Views\\Shared\\Components\\_BitcoinToUSDComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\_BitcoinToUSDComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-24T09:51:35.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAEIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-24T09:46:36.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_BitcoinToUSDComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\ViewComponents\\_BitcoinToUSDComponentPartial.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\_BitcoinToUSDComponentPartial.cs",
+              "ToolTip": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\ViewComponents\\_BitcoinToUSDComponentPartial.cs",
+              "RelativeToolTip": "ViewComponents\\_BitcoinToUSDComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T09:46:03.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CryptoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\Models\\CryptoViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\CryptoViewModel.cs",
+              "ToolTip": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\Models\\CryptoViewModel.cs",
+              "RelativeToolTip": "Models\\CryptoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T09:45:58.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_LPGPriceComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\ViewComponents\\_LPGPriceComponentPartial.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\_LPGPriceComponentPartial.cs",
+              "ToolTip": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\ViewComponents\\_LPGPriceComponentPartial.cs",
+              "RelativeToolTip": "ViewComponents\\_LPGPriceComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T09:45:11.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_MotorinPriceComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\ViewComponents\\_MotorinPriceComponentPartial.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\_MotorinPriceComponentPartial.cs",
+              "ToolTip": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\ViewComponents\\_MotorinPriceComponentPartial.cs",
+              "RelativeToolTip": "ViewComponents\\_MotorinPriceComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T09:45:00.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_FuelPriceComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\ViewComponents\\_FuelPriceComponentPartial.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\_FuelPriceComponentPartial.cs",
+              "ToolTip": "C:\\Users\\BUSE\\source\\repos\\RapidAPIProject\\ViewComponents\\_FuelPriceComponentPartial.cs",
+              "RelativeToolTip": "ViewComponents\\_FuelPriceComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T09:44:19.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

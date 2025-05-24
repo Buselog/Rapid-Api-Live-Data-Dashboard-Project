@@ -1,0 +1,21 @@
+﻿@model RapidAPIProject.Models.MotorinPriceViewModel
+
+<div class="mdc-layout-grid__cell stretch-card mdc-layout-grid__cell--span-4-desktop mdc-layout-grid__cell--span-4-tablet">
+	<div class="mdc-card bg-info text-white">
+		<div class="d-flex justify-content-between">
+			<h3 class="font-weight-normal">Diesel</h3>
+		</div>
+		<div class="mdc-layout-grid__inner align-items-center">
+			<div class="mdc-layout-grid__cell stretch-card mdc-layout-grid__cell--span-4-desktop mdc-layout-grid__cell--span-3-tablet mdc-layout-grid__cell--span-2-phone">
+				<div>
+					@* <h5 class="font-weight-normal mt-2">@Model.data[1].district</h5> *@
+					<h5 class="font-weight-normal mt-2">@Model.data[1].prices[0].guncellenme_tarihi</h5>
+					<h2 class="font-weight-normal mt-3 mb-0">@Model.data[1].prices[0].motorin</h2>
+					<h6 class="font-weight-normal mt-2">Distributor: @Model.data[1].prices[0].dagitici_firma</h6>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+

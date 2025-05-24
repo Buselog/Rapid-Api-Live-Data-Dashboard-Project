@@ -1,0 +1,45 @@
+﻿@model RapidAPIProject.Models.DailyFoodViewModel.Result
+
+<div class="mdc-layout-grid__cell stretch-card mdc-layout-grid__cell--span-12">
+	<div class="mdc-card">
+
+
+		<div class="mb-3">
+			<h5 style="color: cadetblue;"><i class="material-icons">restaurant_menu</i> Today's Featured Recipe</h5>
+		</div>
+		<div class="text-center mb-3">
+			<img src="@Model.thumbnail_url" alt="@Model.name" style="width: 100%; max-height: 300px; object-fit: cover; border-radius: 10px;">
+		</div>
+		<h4 style="color: white;">@Model.name</h4>
+		<div class="d-flex align-items-center mb-3" style="font-size: 14px; color: olive;">
+			<span class="mr-3">
+				<i class="material-icons text-info">schedule</i> Total Time: @Model.total_time_minutes minutes
+			</span>
+			<span class="mr-3">
+				<i class="material-icons text-success">person</i> Serves: @Model.yields
+			</span>
+			@if (!string.IsNullOrEmpty(Model.country))
+			{
+				<span>
+					<i class="material-icons text-warning">public</i> Origin: @Model.country
+				</span>
+			}
+		</div>
+		<p style="font-size: 14px; line-height: 1.6; color: dimgray;">
+			@Model.description
+		</p>
+
+		@if (Model.instructions != null && Model.instructions.Length > 0)
+		{
+			<h5 style="color: rosybrown; margin-top:20px;">Preparation Steps</h5>
+			<ol style="color: gray;">
+				@foreach (var step in Model.instructions)
+				{
+					<li>@step.display_text</li>
+				}
+			</ol>
+		}
+
+	</div>
+</div>
+
